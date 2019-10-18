@@ -2,7 +2,7 @@
 
 A Debian 9 container including .net core sdk, node.js and azure functions CLI
 
-[netcore-node-azure-func-container on Docker Hub](https://cloud.docker.com/repository/docker/loige/netcore-node-azure-func-container)
+[netcore-node-azure-func-container on Docker Hub](https://hub.docker.com/r/loige/netcore-node-azure-func-container)
 
 
 ## Usage
